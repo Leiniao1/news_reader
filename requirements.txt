@@ -1,0 +1,6 @@
+numpy
+sentencepiece
+tfds-nightly
+tensorflow-gpu==2.2.0
+tensorflow==2.2.0
+youtube_transcript_api
