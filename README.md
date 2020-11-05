@@ -1,4 +1,4 @@
-This is an automatic Youtube news reader that helps you read a certain Youtube video transcripts, in a format of news article. What's more, it also generate a one-line summarization using a well-trained machine learning a model.
+This is an automatic Youtube news reader that helps you read a certain Youtube video transcripts, in a format of news article. What's more, it also generates a one-line summarization using a well-trained machine learning model.
 
 
 For example:
@@ -9,11 +9,11 @@ You can type "python3 youtube_reader.py --youtube_id 3Rzi11Hvyh0"
 
 It will generate the whole article, and then give a summarization in one line:
 
-Tonight the sprint to the finish the election now less than two days away president trump's ...
+"Tonight the sprint to the finish the election now less than two days away president trump's ..."
 
 And the summarization will be:
 
-President trump's final rallies in five states today pushing the way to midnight this could be the most important election in our country's history.
+"President trump's final rallies in five states today pushing the way to midnight this could be the most important election in our country's history."
 
 
 To use it:
